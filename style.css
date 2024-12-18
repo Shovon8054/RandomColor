@@ -1,0 +1,21 @@
+
+body{
+    text-align: center;
+    /* display:flex;
+    justify-content: center; */
+}
+
+div {
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin:auto
+
+}
+
+button{
+    padding: 0.3rem;
+    border-radius: 1rem;
+    background-color: rgb(1, 137, 158);
+    color:whitesmoke;
+}
